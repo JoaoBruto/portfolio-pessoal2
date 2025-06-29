@@ -6,11 +6,9 @@ Aqui você encontra alguns dos projetos que desenvolvi enquanto estudo e evoluo 
 ## 🚀 Tecnologias utilizadas
 
 - HTML5  
-- CSS3  
-- JavaScript  
+- CSS3    
 - Git & GitHub  
-- Figma (para prototipagem e design)  
-- Em breve: TypeScript, PHP, Node.js e muito mais!
+- Em breve: JavaScript, TypeScript e muito mais!
 
 ## 🎯 Objetivo
 
