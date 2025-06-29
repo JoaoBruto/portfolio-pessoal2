@@ -1,0 +1,24 @@
+body {
+    background-image: url(imagens/c21526a01598618d77e305bbd81227f2.png);
+    background-repeat: repeat;
+}
+
+#name-in-top {
+    text-align: left;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    font-style: italic;
+}
+
+#DEV-color {
+    color: blue;
+}
+
+#name-in-center {
+    text-align: center;
+    margin-top: 6em;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 50px;
+    color: white;
+}
