@@ -1,14 +1,25 @@
 @import url("https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap");
 
 body {
-    background-image: url(imagens/c21526a01598618d77e305bbd81227f2.png);
-    background-repeat: repeat;
+    background-image: url(imagens/3492868.gif);
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
+#myVideo {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    
+}
+ 
 
 #name-in-top {
     text-align: left;
     color: white;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: "Noto Sans", sans-serif;
     font-size: 25px;
     font-style: italic;
 }
@@ -20,13 +31,13 @@ body {
 #name-in-center {
     text-align: center;
     margin-top: 6em;
-    font-family: "Noto Sans", sans-serif;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 50px;
     color: white;
 }
 
 h2{
-    color: aqua;
+    color: rgb(255, 255, 255);
     text-align: center;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 40px;
@@ -35,33 +46,48 @@ h2{
 
 #image-dev {
     width: 15em;
-    margin-left: 27em;
+    margin-left: 35em;
     margin-top: -30em;
     border-radius: 60%;
-    box-shadow: 0 0 25px #00c6ff;
+    box-shadow: 0 0 25px #5a946b;
 }
 
 #brief-description {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: white;
+    color:rgb(255, 255, 255);
     width: 45em;
-    text-align: center;
-    margin-left: 17em;
+    text-align: justify;
+    margin-left: 19em;
     text-indent: 5em;
     font-size: 25px;
 }
 
 .github {
-    width: 40px;
-    margin-left: 28rem;
+    height: 40px;
+    margin-left: 29em; 
+    padding: 5px;
+     
 }
 
 .linkedin {
-    width: 40px;
-    margin: 3px;
+    height: 40px;
+    padding: 5px;  
 }
 
 .instagram {
-    width: 40px;
-    margin: 3px
+    height: 40px;
+    padding: 5px;
+}
+
+#Front-End-color {
+    color: red;
+}
+
+#languages-and-tecnologis {
+    color: rgb(243, 243, 243);
+    text-decoration: none;
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 65em;
+    margin-top: -10em;
 }
