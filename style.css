@@ -46,22 +46,22 @@ h2{
     color: white;
     width: 45em;
     text-align: center;
-    margin-left: 19em;
+    margin-left: 17em;
     text-indent: 5em;
     font-size: 25px;
 }
 
 .github {
-    width: 50px;
-    margin-left: 32rem;
+    width: 40px;
+    margin-left: 28rem;
 }
 
 .linkedin {
-    width: 50px;
+    width: 40px;
     margin: 3px;
 }
 
 .instagram {
-    width: 50px;
+    width: 40px;
     margin: 3px
 }
