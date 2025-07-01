@@ -57,7 +57,7 @@ h2{
 
 #brief-description {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color:rgb(255, 255, 255);
+    color: #ccc;
     width: 45em;
     text-align: justify;
     margin-left: 12em;
@@ -83,7 +83,7 @@ h2{
 }
 
 #Front-End-color {
-    color: red;
+    color: rgb(228, 164, 28);
 }
 
 #languages-and-tecnologis {
@@ -93,4 +93,5 @@ h2{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     padding: 0;
     margin-top: -10em;
+    cursor: pointer;
 }
