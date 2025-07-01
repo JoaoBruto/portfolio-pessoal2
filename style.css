@@ -4,6 +4,7 @@ body {
     background-image: url(imagens/3492868.gif);
     background-repeat: no-repeat;
     background-size: 100%;
+    margin-top: -10em;
 }
 #myVideo {
     position: absolute;
@@ -22,6 +23,8 @@ body {
     font-family: "Noto Sans", sans-serif;
     font-size: 25px;
     font-style: italic;
+    padding: 10px;
+    
 }
 
 #DEV-color {
@@ -45,10 +48,10 @@ h2{
 }
 
 #image-dev {
-    width: 15em;
-    margin-left: 35em;
-    margin-top: -30em;
-    border-radius: 60%;
+    width: 12em;
+    margin-left: 20em;
+    margin-top: -23em;
+    border-radius: 65%;
     box-shadow: 0 0 25px #5a946b;
 }
 
@@ -57,14 +60,14 @@ h2{
     color:rgb(255, 255, 255);
     width: 45em;
     text-align: justify;
-    margin-left: 19em;
+    margin-left: 12em;
     text-indent: 5em;
     font-size: 25px;
 }
 
 .github {
     height: 40px;
-    margin-left: 29em; 
+    margin-left: 23em; 
     padding: 5px;
      
 }
@@ -88,6 +91,6 @@ h2{
     text-decoration: none;
     font-size: 25px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    margin-left: 65em;
+    padding: 0;
     margin-top: -10em;
 }

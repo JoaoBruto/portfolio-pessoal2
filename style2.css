@@ -1,4 +1,4 @@
-body {
+/* body {
     background-image: url(imagens/3492868.gif);
     background-repeat: no-repeat;
     background-size: 100%;
@@ -20,6 +20,7 @@ body {
     font-family: "Noto Sans", sans-serif;
     font-size: 25px;
     font-style: italic;
+    padding: 10px;
 }
 
 #DEV-color {
@@ -27,6 +28,17 @@ body {
 }
  
 #JavaScript {
-    width: 50px;
-    
+    width: 150px;
+    float: left; 
 }
+
+#languages-and-tecnologis {
+    color: rgb(243, 243, 243);
+    text-decoration: none;
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 0;
+    margin-top: -10em;
+}
+
+*/
