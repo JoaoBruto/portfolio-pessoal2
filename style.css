@@ -1,97 +1,70 @@
 @import url("https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap");
 
 body {
-    background-image: url(imagens/3492868.gif);
+    background-image: url(imagens/fundo-azul-gradiente-de-luxo-abstrato-liso-azul-escuro-com-vinheta-preta-studio-banner.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
-    margin-top: -10em;
-}
-#myVideo {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    
 }
  
-
-#name-in-top {
-    text-align: left;
-    color: white;
-    font-family: "Noto Sans", sans-serif;
-    font-size: 25px;
-    font-style: italic;
-    padding: 10px;
-    
+/* Apresentação profissional */
+.apresentacao {
+    margin-left: 15%;
+    margin-top: 5%;
+    color: rgb(252, 252, 252);
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-#DEV-color {
-    color: blue;
+#meu-nome {
+    font-size: 55px;
 }
 
-#name-in-center {
+#apresentacao-profissional {
+    margin-top: -35px;
+}
+
+#pequena-descricao {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #baccf3;
+    font-size: 16px;
+}
+/* Final da apresentação profissional */
+
+
+/*#name-in-center {
     text-align: center;
-    margin-top: 6em;
+    margin-top: 10%;
+    margin-left: auto;
+    margin-right: auto;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 50px;
     color: white;
 }
+*/
 
-h2{
+/*h2{
     color: rgb(255, 255, 255);
     text-align: center;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 40px;
     
-}
+} */
 
-#image-dev {
-    width: 12em;
-    margin-left: 20em;
-    margin-top: -23em;
-    border-radius: 65%;
-    box-shadow: 0 0 25px #5a946b;
-}
 
 #brief-description {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: #ccc;
-    width: 45em;
-    text-align: justify;
-    margin-left: 12em;
+    width: 35em;
+    margin-top: -7%;
+    text-align: inherit;
+    margin-left: auto;
+    margin-right: 85px;
     text-indent: 5em;
     font-size: 25px;
 }
 
-.github {
-    height: 40px;
-    margin-left: 23em; 
-    padding: 5px;
-     
-}
-
-.linkedin {
-    height: 40px;
-    padding: 5px;  
-}
-
-.instagram {
-    height: 40px;
-    padding: 5px;
-}
 
 #Front-End-color {
     color: rgb(228, 164, 28);
 }
 
-#languages-and-tecnologis {
-    color: rgb(243, 243, 243);
-    text-decoration: none;
-    font-size: 25px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    padding: 0;
-    margin-top: -10em;
-    cursor: pointer;
-}
+
